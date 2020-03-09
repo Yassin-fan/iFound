@@ -1,0 +1,22 @@
+skinparam Activity {
+    BackgroundColor White
+    BorderColor DodgerBlue
+    FontColor DodgerBlue
+    BarColor Black
+    DiamondBackgroundColor White
+    DiamondBorderColor LimeGreen
+    DiamondFontColor LimeGreen
+}
+skinparam Arrow {
+    Color Black
+    FontColor Black
+}
+skinparam usecase {
+    BackgroundColor White
+    BorderColor DodgerBlue
+}
+skinparam Actor {
+    BorderColor Black
+    BackgroundColor Ivory
+}
+skinparam Dpi 300
